@@ -1,0 +1,18 @@
+Shifting Bloom Filter Membership,5,dataset/exp_1e7.txt,5035,0.0005035
+Shifting Bloom Filter Membership,5,dataset/uniform_1e7.txt,4403,0.0004403
+Shifting Bloom Filter Membership,5,dataset/gaussian_1e7.txt,4986,0.0004986
+BloomFilter,10,dataset/exp_1e7.txt,3707,0.0003707
+BloomFilter,10,dataset/uniform_1e7.txt,2896,0.0002896
+BloomFilter,10,dataset/gaussian_1e7.txt,3459,0.0003459
+Spatial Bloom Filter,10,dataset/exp_1e7.txt,3482,0.0003482
+Spatial Bloom Filter,10,dataset/uniform_1e7.txt,3042,0.0003042
+Spatial Bloom Filter,10,dataset/gaussian_1e7.txt,3545,0.0003545
+Partition Shifting Membership,5,dataset/exp_1e7.txt,3701,0.0003701
+Partition Shifting Membership,5,dataset/uniform_1e7.txt,3023,0.0003023
+Partition Shifting Membership,5,dataset/gaussian_1e7.txt,3571,0.0003571
+IdFilter,10,dataset/exp_1e7.txt,27693,0.0027693
+IdFilter,10,dataset/uniform_1e7.txt,22990,0.002299
+IdFilter,10,dataset/gaussian_1e7.txt,27428,0.0027428
+Partition,10,dataset/exp_1e7.txt,4207,0.0004207
+Partition,10,dataset/uniform_1e7.txt,3403,0.0003403
+Partition,10,dataset/gaussian_1e7.txt,3899,0.0003899

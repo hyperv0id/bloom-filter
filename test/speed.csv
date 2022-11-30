@@ -1,0 +1,8 @@
+BloomFilter,100000000,61
+Shifting Bloom Filter Membership,100000000,34
+Spatial Bloom Filter 255,100000000,100
+Spatial Bloom Filter 256,100000000,124
+Partition,100000000,67
+Partition Shifting Membership,100000000,82
+IdFilter 255,100000000,70
+IdFilter 256,100000000,73
